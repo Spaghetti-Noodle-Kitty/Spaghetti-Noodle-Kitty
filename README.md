@@ -10,10 +10,10 @@
 
 ## 💻What am I working on?
 > I mostly focus on cybersecurity and related stuff, but also work on a fair share of C# and/or Terminal based projects 
-## 🤷‍♂️More about me
-### ⚡What languages do I use?
+## 🤷‍♂️ More about me
+### ⚡ What languages do I use?
 ![CSharp](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![Shellscript](https://img.icons8.com/color/48/000000/console.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
-###  🔨What Systems do I use?
+###  💻 What Systems do I use?
 ![CentOS](https://img.icons8.com/color/48/000000/centos.png) ![Windows 10](https://img.icons8.com/color/48/000000/windows-10.png)
-###  🔨What are my go-to editors?
+###  🛠 What are my go-to editors?
 ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio-2019.png) ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
