@@ -2,13 +2,13 @@
 
 # ☕ Sudo-Means-Please ☕
 
-## 🤔Who dis?
+## 🤔 Who dis?
 >My name is Elias Decorvet, I am an 18y/o developer and systemengineer based in 🇨🇭.
 >I am working at Siemens/Atos, learning about cryptography and various network-security-topics.
 >
 >Also I like Birbs.
 
-## 💻What am I working on?
+## 👨‍💻 What am I working on?
 > I mostly focus on cybersecurity and related stuff, but also work on a fair share of C# and/or Terminal based projects 
 ## 🤷‍♂️ More about me
 ### ⚡ What languages do I use?
