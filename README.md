@@ -3,8 +3,8 @@
 # ☕🐤 Sudo-Means-Please 🐥☕
 
 ## 🤔 Who dis?
->My name is Elias Decorvet, I am an 18y/o developer and systemengineer based in 🇨🇭.
->I am working at Siemens/Atos, learning about cryptography and various network-security-topics.
+>My name is Zoë, I am an 18y/o developer and systemengineer based in 🇨🇭.
+>I currently working in cryptography and various network-security-topics.
 >
 >Also I like Birbs.
 
