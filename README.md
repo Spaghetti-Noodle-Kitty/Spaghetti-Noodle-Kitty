@@ -5,10 +5,10 @@
 >My name is Zoë, I am a 19y/o developer and systemengineer based in 🇨🇭.<br />
 >I currently work in cryptography and various network-security-topics.
 ><br />
->Also I like cats.
+>Also, I like cats.
 
 ## 👩‍💻 What am I working on?
-> I mostly focus on cybersecurity and related stuff, but also work on a fair share of C# and/or Terminal based projects 
+> I mostly focus on cybersecurity and related stuff, but I also work on a fair share of C# and/or Terminal based projects 
 ## 🤷‍♀️ More about me
 ### ⚡ What languages do I use?
 [![CSharp](https://img.icons8.com/color/48/000000/c-sharp-logo.png)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![Shellscript](https://img.icons8.com/color/48/000000/console.png)](https://www.shellscript.sh/) [![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://www.w3schools.com/html/) [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/) [![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](https://www.mysql.com/)
