@@ -2,7 +2,7 @@
 # ☕🐈 Spaghetti-Noodle-Kitty 🐈☕
 
 ## 🤔 Who dis?
->My name is Zoë, I am a 19y/o developer and systemengineer based in 🇨🇭.<br />
+>My name is Zoë (She/Her), I am a 19y/o developer and systemengineer based in 🇨🇭.<br />
 >I currently work in cryptography and various network-security-topics.
 ><br />
 >Also, I like cats.
