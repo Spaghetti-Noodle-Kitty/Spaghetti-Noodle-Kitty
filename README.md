@@ -3,7 +3,7 @@
 
 ## 🤔 Who dis?
 >My name is Zoë (She/Her), I am a 19y/o developer and systemengineer based in 🇨🇭.<br />
->I currently work in cryptography and various network-security-topics.
+>I currently work in cryptography and various network-security-topics. (I use arch btw.)
 ><br />
 >Also, I like cats.
 
